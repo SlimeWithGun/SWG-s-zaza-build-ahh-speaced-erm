@@ -36154,13 +36154,6 @@ entities:
     - type: Transform
       pos: 36.5,1.5
       parent: 31431
-- proto: ADTBoxCowUnderwearSet
-  entities:
-  - uid: 48
-    components:
-    - type: Transform
-      pos: -18.462814,-36.61382
-      parent: 2
 - proto: ADTCardBoxBlack
   entities:
   - uid: 49
@@ -36293,13 +36286,6 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -18.314323,-58.813744
       parent: 2
-- proto: ADTClothingUnderwearBottomPantiesCow
-  entities:
-  - uid: 64
-    components:
-    - type: Transform
-      pos: -21.749744,-86.24913
-      parent: 2
 - proto: ADTClothingUnderwearBottomPantiesLaceBlack
   entities:
   - uid: 65
@@ -36335,13 +36321,6 @@ entities:
     components:
     - type: Transform
       pos: -17.319397,-34.64507
-      parent: 2
-- proto: ADTClothingUnderwearTopBraCow
-  entities:
-  - uid: 69
-    components:
-    - type: Transform
-      pos: -21.768501,-86.080376
       parent: 2
 - proto: ADTClothingUnderwearTopBraLaceBlack
   entities:
